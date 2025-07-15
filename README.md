@@ -20,7 +20,7 @@ The Power BI dashboard includes the following key components:
 
 A short walkthrough video is provided below to demonstrate how to interact with the dashboard.
 
-👉 **[Watch Video](./dashboard-demo.mp4)**  
+👉 **[Watch Video](./dashboard_walkthrough.mp4)**  
 *(Note: The video file is included in the repository. Click to preview.)*
 
 ---
@@ -29,8 +29,9 @@ A short walkthrough video is provided below to demonstrate how to interact with 
 
 - `Uber Trip Details.xlsx` – Raw dataset
 - `Location Table.xlsx` – Reference table for location mapping
-- `dashboard-demo.mp4` – Video demo of Power BI dashboard
+- `dashboard_walkthrough.mp4` – Video demo of Power BI dashboard
 - `Problem Statement.docx` – Business problem and requirement
+- `uber_dashboard.pbix` - Dashboard of the Analysis
 
 ---
 
@@ -54,6 +55,6 @@ A short walkthrough video is provided below to demonstrate how to interact with 
 
 **Rushindra Reddy Yasa**  
 📧 [y.rushindrareddy.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)
+🔗 [LinkedIn Profile]((https://www.linkedin.com/in/rushindrareddy-yasa-1b554231a))
 
 ---
