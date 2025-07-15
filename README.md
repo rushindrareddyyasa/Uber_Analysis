@@ -55,6 +55,6 @@ A short walkthrough video is provided below to demonstrate how to interact with 
 
 **Rushindra Reddy Yasa**  
 📧 [y.rushindrareddy.com]  
-🔗 [LinkedIn Profile]((https://www.linkedin.com/in/rushindrareddy-yasa-1b554231a))
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rushindrareddy-yasa-1b554231a)
 
 ---
